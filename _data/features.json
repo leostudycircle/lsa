@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Personalised Training",
+    "description": "We can design a Personalised coaching plan based on your needs.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Gap Assessments",
+    "description": "We can help you assess the weak areas and build foundational learning.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Ask me anything",
+    "description": "Surprise us. Let us know what you require",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
