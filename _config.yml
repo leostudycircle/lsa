@@ -1,4 +1,5 @@
-baseurl: ''
+url: leostudycircle.github.io
+baseurl: '/github.io'
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
